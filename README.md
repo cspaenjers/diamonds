@@ -1,2 +1,2 @@
 # diamonds
-Long-term diamond price data
+Some long-term diamond price data
